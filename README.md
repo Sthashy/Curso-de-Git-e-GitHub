@@ -11,7 +11,7 @@ Segue curso completo do nosso amigo Guanabara sobre GitHub
 # 🔗 Link: 
 <div>
 
-https://www.youtube.com/live/xEKo29OWILE?si=GwrenZqbd285cLD8
+https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=CryjSrytMQH0_plX
 
 
 # 💻 Tecnologias: 
